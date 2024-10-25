@@ -10,8 +10,8 @@
 > "说股票是毒品都在玩，说金钱是罪恶都在捞，说美女是祸水都想要，说高处不胜寒都在爬，说烟酒伤身体都不戒，说天堂最美好都不去。" - [知乎](https://www.zhihu.com/people/god-jiang)
 
 # Features
-[ ] Web Page
-[ ] AI Summary
-[ ] Automated Crawler Update
+- [ ] Web Page
+- [ ] AI Summary
+- [ ] Automated Crawler Update
 
 Wait for the next version.
