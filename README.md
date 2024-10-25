@@ -14,4 +14,5 @@
 - [ ] AI Summary
 - [ ] Automated Crawler Update
 
-Wait for the next version.
+> [!NOTE]
+> Wait for the next version.
